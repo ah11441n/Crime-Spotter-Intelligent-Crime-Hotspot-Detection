@@ -1,6 +1,6 @@
 # Crime Spotter: Intelligent Crime Hotspot Detection
 
-**Capstone Project by Aishwarya Hiremath**
+** by Aishwarya Hiremath**
 
 ## Introduction
 
